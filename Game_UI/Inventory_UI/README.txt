@@ -1,0 +1,1 @@
+All files related to the inventory UI for our game goes here.
