@@ -1,0 +1,1 @@
+All files related to the battle/fight UI for our game goes here.
