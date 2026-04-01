@@ -1,0 +1,1 @@
+All files related to the gallery UI for our game goes here
